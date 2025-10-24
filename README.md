@@ -107,5 +107,5 @@ Project organization:
 Author and metadata:
 Author: Ayesha
 Course: CS250 — Data Structures & Algorithms
-Institution: [Your University]
+Institution: NUST
 Date: 2025-10-24
