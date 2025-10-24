@@ -99,9 +99,8 @@ Suggested improvements :
 • Add a web or curses-based dashboard for interactive monitoring and control.
 
 Project organization:
-• netmon.cpp — full program source
-• README.txt — this plain-text README
-• Makefile — simple build file: g++ -std=c++17 -O2 -pthread -Wall -Wextra -o netmon netmon.cpp
+• netmon.cpp 
+• README.txt 
 • LICENSE — choose a license (MIT recommended for educational code)
 • docs/report.md — full lab report 
 Author and metadata:
